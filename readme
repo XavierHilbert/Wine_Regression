@@ -1,3 +1,8 @@
-regress ln(price) on the explanatory variables available in the dataset. 
+I preformed an analysis on wine using data from stores near Chapel Hill, NC. 
 
+Main takeaways
+- Confirmed most results from earlier study done in 2020
+- Found being aged in oak has a positive affect on price
+- Found abv has a positive affect on price (though there could be collinearity with age)
 
+The pdf in the repo contains the full analysis.
